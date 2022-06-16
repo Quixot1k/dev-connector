@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://admin:2K2bQRq6Pek9NOb6@cluster0.csplh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secretToken",
+    "githubToken": "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"
+}
