@@ -1,2 +1,7 @@
 # dev-connector
-## MERN Full Stack Project 
+My first full stack project with MERN
+
+## How to run the app
+npm install (./)
+npm install (./client)
+npm run dev (./)
