@@ -19,25 +19,6 @@ function Login({ login, isAuthenticated }) {
   const onSubmit = async (e) => {
     e.preventDefault();
     login(email, password);
-    // console.log(formData);
-    // const user = {
-    //   email,
-    //   password,
-    // };
-    // try {
-    //   const config = {
-    //     headers: {
-    //       "Content-Type": "application/json",
-    //     },
-    //   };
-    //   const body = JSON.stringify(user);
-    //   const res = await axios.post("/api/login", body, config);
-    //   console.log("Success");
-    //   console.log(res.data);
-    //   setFormData({ email: "", password: "" });
-    // } catch (error) {
-    //   console.log(error.response.data);
-    // }
   };
 
   // redirect if logged in
