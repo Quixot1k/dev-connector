@@ -1,6 +1,6 @@
 # dev-connector
 
-My first full stack project with MERN
+Full stack project with MERN
 
 ## How to run the app
 
